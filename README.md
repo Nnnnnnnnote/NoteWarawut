@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Warawut Chotthanapattarakun 
-Find "Data Science" position.
+## Find "Data Science" position.
 -----------------------------  
 I've been learning SQL, Python(NumPy, Pandas, Matplotlib, Seaborn and etc.) for 6 months.  
 * 🌍  I'm based in Lampang, Thailand * ✉️  You can contact me at [warawut.note@gmail.com](mailto:warawut.note@gmail.com)
